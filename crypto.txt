@@ -1,0 +1,6 @@
+https://github.com/google/google-ctf/tree/master/2017/quals/2017-crypto-backdoor
+https://github.com/google/google-ctf/tree/master/2017/quals/2017-crypto-diffie
+https://github.com/google/google-ctf/tree/master/2017/quals/2017-crypto-ff
+https://github.com/google/google-ctf/tree/master/2017/quals/2017-crypto-pkcs-is-bad
+https://github.com/google/google-ctf/tree/master/2017/quals/2017-crypto-rubik
+https://github.com/google/google-ctf/tree/master/2017/quals/2017-crypto-selfhash
